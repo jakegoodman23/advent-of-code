@@ -1,5 +1,3 @@
-import pandas as pd 
-
 # part I calculation
 with open("day_1_input.txt", "r") as file:
     total = 0
